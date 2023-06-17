@@ -1,0 +1,8 @@
+<resources>
+
+    <declare-styleable name="AbsoluteLayout_Layout">
+        <attr name="x" format="dimension" />
+        <attr name="y" format="dimension" />
+    </declare-styleable>
+
+</resources>
